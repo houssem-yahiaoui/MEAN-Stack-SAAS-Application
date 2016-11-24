@@ -4,7 +4,7 @@ Welcome, in this series we're going to go through building a SaaS Application us
 
 We're going to start small and integrate more functionalities throug time !.
 
-PART 1 : Hello World ! - 	[YouTube Link ](http://)
+PART 1 : Hello World ! - 	[YouTube Link ](https://youtu.be/_MMkgYfCeuc)
 
 
 ## Installing dependencies :
